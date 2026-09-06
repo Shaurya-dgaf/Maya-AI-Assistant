@@ -1,0 +1,14 @@
+requests
+SpeechRecognition
+pyttsx3
+pygame
+pywhatkit
+pyautogui
+python-dotenv
+edge-tts
+websockets
+beautifulsoup4
+google-generativeai
+pillow
+keyboard
+pynput
